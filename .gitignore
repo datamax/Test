@@ -216,3 +216,10 @@ pip-log.txt
 
 #Compiled Code
 *.pyc
+
+
+#############
+## Other
+#############
+
+*.jnt
